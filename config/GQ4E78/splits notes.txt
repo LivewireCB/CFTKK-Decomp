@@ -1,0 +1,9 @@
+
+OSFatal.c:
+	.init       start:0x80003100 end:0x8000319C
+	.ctors      start:0x80314AE0 end:0x80314B00 
+	.dtors      start:0x80314B00 end:0x80314B20 
+	.bss        start:0x803A2420 end:0x8047BDB8
+	.sdata      start:0x8047D538 end:0x8047D540
+	.sbss       start:0x8047D540 end:0x8047D57C
+	.sdata2     start:0x8047ECD0 end:0x8047ED08
